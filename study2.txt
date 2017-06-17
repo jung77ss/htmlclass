@@ -1,0 +1,1 @@
+this file is second file to test GIT command for origin/master update.
